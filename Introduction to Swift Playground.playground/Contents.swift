@@ -50,4 +50,8 @@ var comparison = numberOne > numberTwo
 
 //Part 7 On Your Own Part 1:
 
+var numberThree = 10
+var numberFour = 10
+
+print(numberThree == numberFour)
 //Part 8 On Your Own Part 2
