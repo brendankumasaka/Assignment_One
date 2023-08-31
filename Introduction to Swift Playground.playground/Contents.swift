@@ -47,3 +47,7 @@ var numberTwo = 7
 //We are going to create a statement that compares the two variable and assign that statement to a third variable
 
 var comparison = numberOne > numberTwo
+
+//Part 7 On Your Own Part 1:
+
+//Part 8 On Your Own Part 2
