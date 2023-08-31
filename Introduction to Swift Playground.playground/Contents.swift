@@ -32,3 +32,18 @@ var mySeventhVariable = myFourthVariable + myFifthVariable + mySixthVariable
 print(mySeventhVariable)
 
 //If you want to change something in your strings to have it print out, "Hello My Name," you need to add a space at the start of the strings so that there is a space between each word/sentence.
+
+//Assignment #3 Introduction to True and False
+
+var appState = false
+print(appState)
+
+//Part 4
+//create 2 new variables of type int
+
+var numberOne = 5
+var numberTwo = 7
+
+//We are going to create a statement that compares the two variable and assign that statement to a third variable
+
+var comparison = numberOne > numberTwo
